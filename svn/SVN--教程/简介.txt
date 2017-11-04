@@ -1,0 +1,14 @@
+car.js--用户---（1）--linen
+
+
+book.js--管理员--（2）--merry
+
+
+shop.js--商品--（3）--tom
+
+
+carController--【（1）90%--（3）10%】--linen
+
+bookController--【（2）90%--（3）10%】--merry
+
+shopController--【（3）90%--（1）10%】--tom
